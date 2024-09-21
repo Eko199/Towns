@@ -1,7 +1,7 @@
 # Towns for SoftUni
 Code for the Git and GitHub Exercise
 
-#Roles
+# Roles
 
 Eko199 (browser) takes the role "Editor"
 EkoSoftUni takes the role "Shuffler"
